@@ -1,0 +1,36 @@
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Properties.Resources.resources
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.csproj.GenerateResource.Cache
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\Game_Rắn_Săn_Mồi.exe
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\Game_Rắn_Săn_Mồi.pdb
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.exe
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.pdb
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.csprojResolveAssemblyReference.cache
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Interop.WMPLib.dll
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.csproj.ResolveComReference.cache
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\aa\Game_Rắn_Săn_Mồi.resources.dll
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\en-MY\Game_Rắn_Săn_Mồi.resources.dll
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\aa\Game_Rắn_Săn_Mồi.resources.dll
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\en-MY\Game_Rắn_Săn_Mồi.resources.dll
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Game1.resources
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form1.resources
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form2.resources
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form2.aa.resources
+D:\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form2.en-MY.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.csproj.ResolveComReference.cache
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.exe
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.pdb
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\Game_Rắn_Săn_Mồi.exe
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\Game_Rắn_Săn_Mồi.pdb
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\aa\Game_Rắn_Săn_Mồi.resources.dll
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\bin\Debug\en-MY\Game_Rắn_Săn_Mồi.resources.dll
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.csprojResolveAssemblyReference.cache
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Game1.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form1.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form2.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Properties.Resources.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form2.aa.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.Form2.en-MY.resources
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\Game_Rắn_Săn_Mồi.csproj.GenerateResource.Cache
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\aa\Game_Rắn_Săn_Mồi.resources.dll
+C:\Users\duchu\Downloads\Game_Rắn_Săn_Mồi (1)\Game_Rắn_Săn_Mồi\Game_Rắn_Săn_Mồi\obj\x86\Debug\en-MY\Game_Rắn_Săn_Mồi.resources.dll
